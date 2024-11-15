@@ -3,5 +3,6 @@ This is a script to simplify the process of installing docker in linux virtual m
 
 
 ```sh
+chmod +x install_docker.sh
 ./install_docker.sh
 ```
